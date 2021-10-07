@@ -1,18 +1,32 @@
 # Java-Spring-Rest-Api-Service-VetClinic
 
 
-## Kullanıcılar
+## Users on Systems
 
-| Kullancı Adı  | Şifre |
-| ------------- |:-------------:|
-| eymen      | 12345     |
-| eymen123   | 12345     |
+| Username  | Password | Role |
+| ------------- | ------------- |:-------------:|
+| ````eruyar123@gmail.com````     | 12345  | ROLE_ADMIN     |
+| ````slymn@mail.com````          | 12345  | ROLE_ADMIN     |
+| ````veli@mail.com````           | 12345  | ROLE_SECRETARY |
+| ````ali@mail.com````            | 12345  | ROLE_SECRETARY |
+| ````berat@mail.com````          | 12345  | ROLE_DOCTOR    |
+| ````hakan@mail.com````          | 12345  | ROLE_ADMIN     |
+| ````kadir@mail.com````          | 12345  | ROLE_DOCTOR    |
 
-## Kullanılan Diller ve Yetenekler
+#### Programming Languages and Libraries
+- :arrow_right: Java
+- :arrow_right: MySQL
+- :arrow_right: Spring Data JPA
+- :arrow_right: Spring MVC
+- :arrow_right: Spring Security
+- :arrow_right: Spring Validation
+- :arrow_right: Spring Rest Api
+- :arrow_right: Spring Swagger
+- :arrow_right: Elasticsearch
+- :arrow_right: Redis
+- :arrow_right: Log4j
 
-:arrow_right: Java
-
-## Uygulama Görselleri
+## Application Images
 
 <p>
   
