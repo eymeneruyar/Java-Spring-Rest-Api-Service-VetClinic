@@ -1,4 +1,4 @@
-# Java-Spring-Rest-Api-Service-VetClinic
+# Vet Clinic Rest Api Service
 This project provides the REST API service of the "Vet Clinic - Spring MVC" project. In addition to all these, elasticsearch is used in all search operations in the program. Redis is listed of city, and list of towns by the number plate.
 
 Note: Redis and elasticsearch applications were run over Docker. Necessary configuration settings are made in the "Config" package and "application.properties" files in the project. If you want to change this configuration setting, check these files.
